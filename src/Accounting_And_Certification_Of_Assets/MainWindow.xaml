@@ -1,0 +1,15 @@
+﻿<Window x:Class="Accounting_And_Certification_Of_Assets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное Окно"
+        Height="810"
+        Width="1350"
+        MinHeight="810"
+        MinWidth="1350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+    </Grid>
+</Window>
